@@ -14,6 +14,10 @@
         "text": "heading 1"
       },
       {
+        "type": "img",
+        "src": "https://starwalk.space/gallery/images/what-is-space/1140x641.jpg"
+      },
+      {
         "type": "cover",
         "src": "https://starwalk.space/gallery/images/what-is-space/1140x641.jpg"
       },
