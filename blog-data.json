@@ -13,6 +13,10 @@
         "text": "heading 1"
       },
       {
+        "type": "cover",
+        "src": "https://starwalk.space/gallery/images/what-is-space/1140x641.jpg"
+      },
+      {
         "type": "p",
         "text": "this is a text"
       }
